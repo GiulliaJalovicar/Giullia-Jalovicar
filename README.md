@@ -12,13 +12,12 @@
 
 ###
 
-<p align="left">💻 Transição para Desenvolvimento Back-End<br>Após 6 anos de experiência na área de Logística, estou em transição de carreira para Desenvolvimento Back-End, unindo minha expertise em processos e projetos à paixão por tecnologia.<br><br>📚 Formação em andamento:<br><br>Análise e Desenvolvimento de Sistemas | Ciência da Computação<br>Pós-graduação em Segurança e Defesa Cibernética | Estrutura e Gestão de Redes de Computadores | Técnico em Análise e Desenvolvimento de Sistemas<br><br>🚀 Principais tecnologias:<br><br>HTML5  | CSS3 | JavaScript | Python | Java  | GO (Golang)  | C# I Angular | SQL Server I SpringBoot I <br>🌟 Entusiasta por soluções eficientes, escaláveis e seguras.</p>
+<p align="left">💻 Transição para Desenvolvimento Back-End<br>Após 6 anos de experiência na área de Logística, estou em transição de carreira para Desenvolvimento Back-End, unindo minha expertise em processos e projetos à paixão por tecnologia.<br><br>📚 Formação em andamento e Concluidas<br><br>Análise e Desenvolvimento de Sistemas | Ciência da Computação<br>Pós-graduação em Segurança e Defesa Cibernética | Estrutura e Gestão de Redes de Computadores | Técnico em Análise e Desenvolvimento de Sistemas<br><br>🚀 Principais tecnologias:<br><br>HTML5  | CSS3 | JavaScript | Python | Java  | GO (Golang)  | C# I .NET | Angular | SQL Server I SpringBoot I <br>🌟 Entusiasta por soluções eficientes, escaláveis e seguras.</p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HagataMendes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=true&order=2" height="238" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HagataMendes&radius=3&theme=dracula&area=true&order=5&hide_title=false&hide_border=true" height="260" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HagataMendes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=codeSTACKr&hide_border=true&order=2" height="229" alt="languages graph"  />
 </div>
 
 ###
