@@ -4,7 +4,7 @@
 
 ###
 
-<h5 align="left">Meu nome é Hágata Mendes tenho 23 anos e sou Desenvolvedora Back End Jr e moro em São Paulo Zona Leste ♥</h5>
+<h5 align="left">Meu nome é Giullia Jalovicar tenho 18 anos estou fazendo curso de ADS e moro em São Paulo Zona Oeste ♥</h5>
 
 ###
 
