@@ -43,7 +43,7 @@
 ###
 
 <div align="left">
-  <a href="[https://www.linkedin.com/in/h%C3%A1gata-mendes-808b73180/](https://www.linkedin.com/in/giullia-jalovicar-13022b315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" target="_blank">
+  <a href="https://www.linkedin.com/in/giullia-jalovicar-13022b315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:giulliajalo.contato@gmail.com" target="_blank">
